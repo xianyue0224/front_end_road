@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 203.67531254606456 245.1545173866798" width="100" height="120">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="203.67531254606456" height="245.1545173866798" fill="#ffffff"></rect><g stroke-linecap="round" transform="translate(10 10) rotate(0 82.60737222786406 112.5772586933399)"><path d="M-0.19 -0.79 L164.27 0.25 L165.76 224.87 L-1.66 227.04" stroke="none" stroke-width="0" fill="#f1dd4d"></path><path d="M1.99 -1.48 C45.59 -0.45, 85.53 2.32, 165.62 1.18 M0.21 -0.92 C34.68 0.71, 71.17 1.11, 164.22 0.98 M166.11 -0.57 C166.47 45.45, 163.95 91.89, 165.54 224.97 M165.38 0.58 C165.58 68.18, 165.5 135.64, 164.84 225.28 M166.73 223.92 C111.57 225.3, 59.35 225.01, 0.01 225.95 M165.04 225.73 C115.59 225.09, 67.58 225.52, 0.49 225.4 M1.62 226.74 C2.56 162.98, 0.9 101.17, 1.56 -1.5 M-0.22 225.47 C2.23 162.17, 1.4 97.81, 0.63 -0.42" stroke="#000000" stroke-width="4" fill="none"></path></g><g stroke-linecap="round" transform="translate(83.97637256653888 37.10270368553756) rotate(0 54.84946998976284 28.207039609038475)"><path d="M-0.79 -0.94 L109.95 0.55 L109.42 54.75 L1.89 55.76" stroke="none" stroke-width="0" fill="#fff"></path><path d="M-1.48 1.91 C24.71 -2.93, 53.78 -0.68, 110.87 -1.74 M-0.92 -0.51 C34.82 0.57, 70.04 -1.22, 110.68 -0.93 M109.03 1.3 C108.44 15.69, 108.24 35.03, 109.49 56.47 M110.37 -0.38 C109.9 18.46, 109.11 37.42, 109.84 56.59 M108.46 55.32 C70.88 56.48, 32.78 57.25, 0.79 56.33 M110.27 55.68 C84.21 56.38, 59.82 56.71, 0.24 56.17 M1.85 58 C0.31 42.65, 0.5 31.39, -1.75 -0.36 M0.37 57.08 C0.44 44.04, -0.64 33.03, -0.49 -0.1" stroke="#000000" stroke-width="4" fill="none"></path></g><g transform="translate(48.16345409481801 142.63589128409149) rotate(0 47.011732681730564 43.250794067192146)"><text x="0" y="60.50158813438411" font-family="Virgil, Segoe UI Emoji" font-size="67.69689506169192px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">{;}</text></g><g transform="translate(119.38996019753495 44.390559245599434) rotate(0 25.38633564813449 23.505866340865396)"><text x="0" y="33.01173268173049" font-family="Virgil, Segoe UI Emoji" font-size="37.6093861453844px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">JS</text></g></svg>

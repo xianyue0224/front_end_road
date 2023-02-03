@@ -1,16 +1,15 @@
 {
   "name": "front_end_road",
   "version": "1.0.0",
-  "description": "",
+  "description": "前端之路：一个基于vitepress打造的静态文档站点，内容主要为前端相关的资源。",
   "type": "module",
-  "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
   "keywords": [],
-  "author": "",
+  "author": "xianyue",
   "license": "ISC",
   "devDependencies": {
     "vitepress": "1.0.0-alpha.40",
