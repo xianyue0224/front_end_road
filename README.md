@@ -1,6 +1,8 @@
 # 前端之路
 
-这是一个静态文档站点，我用它整理了一些用于学习前端的资料以及能提高工作效率的工具，你可以在这个站点访问它：[传送门](https://kaleidoscopic-flan-9d6127.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4ec1dcac-fffb-400a-b498-2e58cc68f1d4/deploy-status)](https://app.netlify.com/sites/xianyuefer/deploys)
+
+这是一个静态文档站点，我用它整理了一些用于学习前端的资料以及能提高工作效率的工具，你可以在这个站点访问它：[传送门](https://xianyuefer.netlify.app/)
 
 ## 创建这个网站的初衷
 
