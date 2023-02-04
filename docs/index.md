@@ -18,7 +18,7 @@ features:
   - icon:
       src: /icon/html_css.svg
     title: HTML5+CSS3
-    link: /language/html_css/index
+    link: /language/html_css/overview
     linkText: 点击跳转
   - icon:
       src: /icon/js.svg

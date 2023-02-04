@@ -6,21 +6,23 @@ export default function nav() {
       nav: [
         {
           text: '语言',
-          activeMatch: '/language',
+          activeMatch: '/language/',
           items: [
             {
               text: 'JavaScript',
               link: '/language/js/index',
+              activeMatch: '/language/js/',
             },
             {
               text: 'TypeScript',
               link: '/language/ts/index',
-              activeMatch: '/resources/language/TS/',
+              activeMatch: '/language/ts/',
             },
             {
               text: 'HTML5+CSS3',
-              link: '/language/html_css/index',
-            }
+              link: '/language/html_css/overview',
+              activeMatch: '/language/html_css/',
+            },
           ],
         },
       ],

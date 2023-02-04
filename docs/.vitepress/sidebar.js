@@ -4,87 +4,24 @@ export default function sidebar() {
   return defineConfig({
     themeConfig: {
       sidebar: {
-        '/resources/': [
+        '/language/html_css/': [
           {
-            text: '语言',
+            text: 'HTML5+CSS3',
             collapsible: true,
             items: [
+              { text: '总览', link: '/language/html_css/overview' },
+              { text: '学习路线', link: '/language/html_css/guide' },
+              { text: '视频教程', link: '/language/html_css/video' },
+              { text: '练习案例', link: '/language/html_css/practice' },
+              { text: '书籍 & 参考资料', link: '/language/html_css/reference' },
+              { text: '工具', link: '/language/html_css/tool' },
               {
-                text: 'JS',
-                items: [
-                  { text: '书籍', link: '/resources/language/JS/books' },
-                  { text: '网站', link: '/resources/language/JS/sites' },
-                  { text: '仓库', link: '/resources/language/JS/repos' },
-                  { text: '视频教程', link: '/resources/language/JS/videos' },
-                ],
-              },
-              {
-                text: 'TS',
-                items: [
-                  { text: '书籍', link: '#' },
-                  { text: '仓库', link: '#' },
-                  { text: '网站', link: '#' },
-                  { text: '视频教程', link: '#' },
-                ],
-              },
-              {
-                text: 'HTML',
-                items: [
-                  { text: '书籍', link: '#' },
-                  { text: '仓库', link: '#' },
-                  { text: '网站', link: '#' },
-                  { text: '视频教程', link: '#' },
-                ],
-              },
-              {
-                text: 'CSS',
-                items: [
-                  { text: '书籍', link: '#' },
-                  { text: '仓库', link: '#' },
-                  { text: '网站', link: '#' },
-                  { text: '视频教程', link: '#' },
-                ],
-              },
-            ],
-          },
-          {
-            text: '框架',
-            collapsible: true,
-            items: [
-              {
-                text: 'Vue',
-                items: [
-                  { text: '书籍', link: '#' },
-                  { text: '仓库', link: '#' },
-                  { text: '网站', link: '#' },
-                  { text: '视频教程', link: '#' },
-                ],
-              },
-              {
-                text: 'React',
-                items: [
-                  { text: '书籍', link: '#' },
-                  { text: '仓库', link: '#' },
-                  { text: '网站', link: '#' },
-                  { text: '视频教程', link: '#' },
-                ],
-              },
-            ],
-          },
-          {
-            text: '其他',
-            collapsible: true,
-            items: [
-              {
-                text: 'Github Actions',
-                link: 'resources/other/github_actions',
+                text: '值得关注的内容创作者',
+                link: '/language/html_css/channel',
               },
             ],
           },
         ],
-        '/tools/': [],
-        '/articles/': [],
-        '/FENext/': [],
       },
     },
   }).themeConfig?.sidebar;
